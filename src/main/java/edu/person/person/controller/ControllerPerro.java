@@ -10,7 +10,7 @@ import java.util.List;
 
 @RestController
 @CrossOrigin
-@RequestMapping("/testeo")
+@RequestMapping("/perro")
 public class ControllerPerro {
     @Autowired
     private ServicePerro servicePerro;

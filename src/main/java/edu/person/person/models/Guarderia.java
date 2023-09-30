@@ -1,8 +1,6 @@
 package edu.person.person.models;
 
-import jakarta.persistence.*;
-import org.springframework.context.annotation.Primary;
-
+import javax.persistence.*;
 import java.io.Serializable;
 @Entity
 @Table(name = "GUARDERIA")
